@@ -9,9 +9,9 @@ h3 {
   padding: 20px;
   color: #fff;
 }
-/* img {
-    width: 100%;
-  } */
+img {
+    width: 20%;
+  } 
 
 ::selection {
   background: yellow;
